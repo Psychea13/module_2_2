@@ -8,4 +8,3 @@ elif first == second == third:
     print('Количество равных чисел:', 3)
 elif first == second or first == third or second == third:
     print('Количество равных чисел:', 2)
-
